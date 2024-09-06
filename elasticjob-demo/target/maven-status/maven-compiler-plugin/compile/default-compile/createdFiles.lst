@@ -1,0 +1,4 @@
+com\lhx\demo\config\ZookeeperConfig.class
+com\lhx\demo\TestSpringBootApplication.class
+com\lhx\demo\config\ElasticJobConfig.class
+com\lhx\demo\Job\MyJob.class

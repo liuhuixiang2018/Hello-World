@@ -1,11 +1,8 @@
 spring:
   application:
-    name: demo
+    name: elasticjob-demo
   profiles:
-    active: sit05
-  batch:
-    job:
-      enabled: false #默认启动后不自动执行job
-mybatis:
-  mapperLocations: classpath:mapper/*Mapper.xml
-  type-aliases-package: com.psbc.psbccommon.mode
+    active: dev
+  main:
+#  允许循环依赖的使用
+    allow-circular-references: true
