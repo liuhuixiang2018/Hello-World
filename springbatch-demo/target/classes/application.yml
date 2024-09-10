@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: springbatch-demo
+  profiles:
+    active: dev
+  batch:
+    job:
+      enabled: false #默认启动后不自动执行job
