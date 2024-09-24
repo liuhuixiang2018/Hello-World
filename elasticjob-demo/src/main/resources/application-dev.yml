@@ -1,7 +1,0 @@
-server.port: 8090
-# zookeeper服务地址
-zookeeper:
-  connString: 192.168.116.128:2181
-# 名称空间
-myjob:
-  namespace: elastic-job-demo

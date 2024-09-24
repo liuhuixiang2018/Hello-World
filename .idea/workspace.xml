@@ -2,13 +2,202 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cb11e2b-ca13-4819-b7e9-a458732d83b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_83.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_52_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_batch_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_core_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/elasticjob-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/eureka-service-demo/eureka-server-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/eureka-service-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/eureka-service-demo/src/main/java/com/lhx/demo/EurekaDemoSpringBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/eureka-service-demo/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/eureka-service-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/my-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/springbatch-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/thread/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/thread/ThreadDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/springcloud-gateway-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/src/main/java/com/lhx/demo/GatewaySpringBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_74.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_74.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_74.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_4_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_4_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_4_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_4_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/elasticjob-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/Job/MyJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/Job/MyJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/Job/YourJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/Job/YourJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/TestSpringBootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/ElasticJobSpringBootApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/config/ElasticJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/config/ElasticJobConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/config/ZookeeperConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/config/ZookeeperConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/custom/ElasticSimpleJobInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/custom/ElasticSimpleJobInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/classes/com/lhx/demo/Job/MyJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/classes/com/lhx/demo/Job/MyJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/classes/com/lhx/demo/Job/YourJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/classes/com/lhx/demo/Job/YourJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/classes/com/lhx/demo/TestSpringBootApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/classes/com/lhx/demo/config/ElasticJobConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/classes/com/lhx/demo/config/ElasticJobConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/classes/com/lhx/demo/config/ZookeeperConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/classes/com/lhx/demo/config/ZookeeperConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/classes/com/lhx/demo/custom/ElasticSimpleJobInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/classes/com/lhx/demo/custom/ElasticSimpleJobInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/elasticjob-demo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/elasticjob-demo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/elasticjob-demo-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/elasticjob-demo-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticjob-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/elasticjob-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/job/MyBatchJob$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/job/MyBatchJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/job/YourBatchJob$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/job/YourBatchJob$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/job/YourBatchJob$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/job/YourBatchJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/springbatch-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/TestSpringBootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/SpringBatchSpringBootApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/common/CommonLinerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/common/CommonLinerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/config/JobRegistryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/config/JobRegistryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/job/MyBatchJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/job/MyBatchJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/job/YourBatchJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/job/YourBatchJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/listener/MyAnnoListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/listener/MyAnnoListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/listener/MyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/listener/MyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/util/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/util/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/util/JsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/util/JsonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/validator/MyValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/validator/MyValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/com/lhx/demo/TestSpringBootApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/TestSpringBootApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/com/lhx/demo/common/CommonLinerRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/common/CommonLinerRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/com/lhx/demo/config/JobRegistryConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/config/JobRegistryConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/com/lhx/demo/listener/MyAnnoListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/listener/MyAnnoListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/com/lhx/demo/listener/MyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/listener/MyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/com/lhx/demo/util/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/util/DateUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/com/lhx/demo/util/JsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/util/JsonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbatch-demo/target/classes/com/lhx/demo/validator/MyValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-parent/springbatch-demo/target/classes/com/lhx/demo/validator/MyValidator.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/elasticjob-demo/target/" />
     <ignored path="$PROJECT_DIR$/springbatch-demo/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-gateway-demo/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-service-demo/target/" />
+    <ignored path="$PROJECT_DIR$/my-parent/target/" />
+    <ignored path="$PROJECT_DIR$/my-parent/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/my-parent/eureka-service-demo/target/" />
+    <ignored path="$PROJECT_DIR$/my-parent/elasticjob-demo/target/" />
+    <ignored path="$PROJECT_DIR$/my-parent/springbatch-demo/target/" />
+    <ignored path="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,22 +211,109 @@
       <FILTER>com.lhx.demo.*</FILTER>
     </SUITE>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Hello-World" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbatch-demo/pom.xml">
+      <file leaf-file-name="ElasticJobConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/config/ElasticJobConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+            <state relative-caret-position="946">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YourBatchJob.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/job/YourBatchJob.java">
+      <file leaf-file-name="SpringBatchSpringBootApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/SpringBatchSpringBootApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+            <state relative-caret-position="374">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/thread/ThreadDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="method#call#0;class#ThreadDemo#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadDemo2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/thread/ThreadDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+              <folding>
+                <element signature="method#main#0;class#SharedDataExample#0;class#ThreadDemo2#0" expanded="true" />
+                <element signature="e#266#282#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Future.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/concurrent/Future.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="150" column="39" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExecutorService.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/concurrent/ExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="235" column="18" lean-forward="true" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Executors.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/concurrent/Executors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="169" column="33" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="33" />
+              <folding>
+                <element signature="method#newSingleThreadExecutor#0;class#Executors#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Callable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/concurrent/Callable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationContext.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.9.RELEASE/spring-context-5.2.9.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyJob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/Job/MyJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,18 +351,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/service/impl/MyServiceImpl.java" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/service/MyService.java" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/bean/Bean.java" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/resources/static/jquery/angularjs/login.html" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/resources/static/js/demo.js" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/resources/static/login1.html" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/resources/static/login.html" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/thread/MyThread.java" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/TestSpringBootApplication.java" />
-        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/resources/application-dev.yml" />
         <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/config/ElasticJobConfig.java" />
         <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/custom/ElasticSimpleJobInterface.java" />
         <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/Job/MyJob.java" />
@@ -97,7 +361,6 @@
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/job/MyJob.java" />
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/resources/application-dev.yml" />
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/util/DateUtils.java" />
-        <option value="$PROJECT_DIR$/springbatch-demo/pom.xml" />
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/util/JsonUtil.java" />
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/config/JobRegistryConfig.java" />
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/validator/MyValidator.java" />
@@ -109,11 +372,47 @@
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/job/MyBatchJob.java" />
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/TestSpringBootApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-gateway-demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springbatch-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/controller/MyController.java" />
+        <option value="$PROJECT_DIR$/springcloud-gateway-demo/src/main/java/com/lhx/demo/TestSpringBootApplication.java" />
+        <option value="$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/controller/MyController.java" />
+        <option value="$PROJECT_DIR$/eureka-service-demo/src/main/java/demo/GatewaySpringBootApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-service-demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-service-demo/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/springcloud-gateway-demo/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/eureka-service-demo/src/main/java/demo/EurekaDemoSpringBootApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-service-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-gateway-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/my-parent/eureka-service-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/my-parent/eureka-service-demo/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/src/main/java/com/lhx/demo/GatewaySpringBootApplication.java" />
+        <option value="$PROJECT_DIR$/my-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/my-parent/springbatch-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/job/MyBatchJob.java" />
+        <option value="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/job/YourBatchJob.java" />
+        <option value="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/my-parent/elasticjob-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/ElasticJobSpringBootApplication.java" />
+        <option value="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/controller/MyController.java" />
+        <option value="$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/config/ElasticJobConfig.java" />
+        <option value="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/SpringBatchSpringBootApplication.java" />
+        <option value="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/thread/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/thread/ThreadDemo2.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -125,35 +424,37 @@
         <option name="userSettingsFile" value="D:\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springbatch-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="eureka-server-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springbatch-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="eureka-server-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springbatch-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="my-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springbatch-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-batch:2.7.11" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="my-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springbatch-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="mysql:mysql-connector-java:8.0.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="my-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
       </expand>
       <select />
@@ -168,12 +469,15 @@
     <option name="width" value="1945" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -185,105 +489,64 @@
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="my-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="my-parent" type="462c0819:PsiDirectoryNode" />
               <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="my-parent" type="462c0819:PsiDirectoryNode" />
               <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="my-parent" type="462c0819:PsiDirectoryNode" />
               <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="my-parent" type="462c0819:PsiDirectoryNode" />
               <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="my-parent" type="462c0819:PsiDirectoryNode" />
               <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
+              <item name="my-parent" type="462c0819:PsiDirectoryNode" />
               <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="job" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="listener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hello-World" type="462c0819:PsiDirectoryNode" />
-              <item name="springbatch-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hello-World" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,24 +562,35 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git_test\Hello-World\my-parent" />
+      <recent name="D:\git_test\Hello-World\eureka-service-demo\src\main\resources" />
+      <recent name="D:\git_test\Hello-World\springcloud-gateway-demo\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lhx.demo.thread" />
+      <recent name="demo" />
+      <recent name="com.lhx.demo" />
+      <recent name="com.lhx.demo.controller" />
       <recent name="com.lhx.demo.job" />
-      <recent name="com.lhx.demo.listener" />
-      <recent name="com.lhx.demo.config" />
-      <recent name="com.lhx.demo.util" />
-      <recent name="com.lhx.demo.Job" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git_test\Hello-World\springcloud-gateway-demo\src\main\resources" />
       <recent name="D:\git_test\Hello-World\springbatch-demo\src\main\resources" />
       <recent name="D:\git_test\Hello-World\elasticjob-demo\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -327,8 +601,20 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.21706484" />
   </component>
-  <component name="RunManager" selected="Spring Boot.TestSpringBootApplication (1)">
+  <component name="RunManager" selected="Application.ThreadDemo2">
+    <configuration name="ThreadDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lhx.demo.thread.ThreadDemo2" />
+      <module name="springbatch-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhx.demo.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -348,7 +634,61 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestSpringBootApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="my-parent [install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/my-parent" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="EurekaDemoSpringBootApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.demo.EurekaDemoSpringBootApplication" />
+    </configuration>
+    <configuration name="EurekaDemoSpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.EurekaDemoSpringBootApplication" />
+    </configuration>
+    <configuration name="GatewaySpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-gateway-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.demo.GatewaySpringBootApplication" />
+    </configuration>
+    <configuration name="SpringBatchSpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springbatch-demo" />
       <extension name="coverage">
         <pattern>
@@ -356,11 +696,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.demo.TestSpringBootApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.demo.SpringBatchSpringBootApplication" />
     </configuration>
     <configuration name="TestSpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="elasticjob-demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.demo.TestSpringBootApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.demo.ElasticJobSpringBootApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -386,11 +726,20 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.TestSpringBootApplication" />
-      <item itemvalue="Spring Boot.TestSpringBootApplication (1)" />
+      <item itemvalue="Maven.my-parent [install]" />
+      <item itemvalue="Spring Boot.SpringBatchSpringBootApplication" />
+      <item itemvalue="Spring Boot.GatewaySpringBootApplication" />
+      <item itemvalue="Spring Boot.EurekaDemoSpringBootApplication" />
+      <item itemvalue="Spring Boot.EurekaDemoSpringBootApplication (1)" />
+      <item itemvalue="Application.ThreadDemo2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.TestSpringBootApplication (1)" />
+        <item itemvalue="Application.ThreadDemo2" />
+        <item itemvalue="Spring Boot.GatewaySpringBootApplication" />
+        <item itemvalue="Spring Boot.SpringBatchSpringBootApplication" />
+        <item itemvalue="Spring Boot.EurekaDemoSpringBootApplication (1)" />
+        <item itemvalue="Spring Boot.EurekaDemoSpringBootApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +761,16 @@
       <workItem from="1725497348741" duration="18817000" />
       <workItem from="1725530133837" duration="18385000" />
       <workItem from="1725845467851" duration="5230000" />
-      <workItem from="1725931149479" duration="2543000" />
+      <workItem from="1725931149479" duration="3754000" />
+      <workItem from="1726016945236" duration="18765000" />
+      <workItem from="1726051216172" duration="3921000" />
+      <workItem from="1726120705648" duration="2640000" />
+      <workItem from="1726208474792" duration="5818000" />
+      <workItem from="1726220309582" duration="2073000" />
+      <workItem from="1726571438935" duration="4883000" />
+      <workItem from="1726728853207" duration="596000" />
+      <workItem from="1726826174061" duration="2479000" />
+      <workItem from="1727158448367" duration="2359000" />
     </task>
     <task id="LOCAL-00001" summary="elastic-job的初步使用">
       <created>1725584892294</created>
@@ -432,7 +790,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64357000" />
+    <option name="totallyTimeSpent" value="109102000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,75 +803,80 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.37600535" side_tool="true" weight="0.38330975" />
-      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.7828843" weight="0.0" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.7828843" visible="true" weight="0.06434316" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.1557562" side_tool="true" weight="0.2386059" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" sideWeight="0.62399465" visible="true" weight="0.32390383" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" sideWeight="0.62399465" visible="true" weight="0.25884017" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3281471" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4966488" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4966488" weight="0.718529" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49932975" weight="0.32909605" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.15983027" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89745307" weight="0.3083451" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89745307" weight="0.33380482" />
       <window_info anchor="bottom" id="Spring" order="11" sideWeight="0.49932975" weight="0.3121469" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49932975" weight="0.32909605" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2077748" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="right" id="BPMNPalette" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.762069" visible="true" weight="0.16286863" />
+      <window_info id="Web" order="7" sideWeight="0.5046296" side_tool="true" weight="0.2272118" />
+      <window_info anchor="right" id="BPMNPalette" order="4" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Favorites" order="5" sideWeight="0.5046296" side_tool="true" weight="0.2272118" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Coverage" order="10" sideWeight="0.21711569" side_tool="true" weight="0.0" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.62399465" weight="0.23762377" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89745307" weight="0.3083451" />
-      <window_info anchor="bottom" id="Spring" order="11" sideWeight="0.49932975" weight="0.3121469" />
+      <window_info anchor="bottom" id="Spring" order="12" sideWeight="0.49932975" weight="0.3121469" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.89745307" visible="true" weight="0.36350778" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49932975" weight="0.32909605" />
+      <window_info id="Favorites" order="5" sideWeight="0.5046296" side_tool="true" weight="0.2272118" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.32909605" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.102546915" side_tool="true" weight="0.10749646" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4966488" weight="0.32956153" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3281471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.37600535" side_tool="true" weight="0.38330975" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4966488" weight="0.32956153" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932975" weight="0.3281471" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="BPMNPalette" order="5" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49932975" weight="0.32909605" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.7828843" weight="0.0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20643431" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.21711569" side_tool="true" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.90147454" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49932975" weight="0.32909605" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.7828843" visible="true" weight="0.14879356" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8466667" visible="true" weight="0.20241287" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Web" order="7" sideWeight="0.5046296" side_tool="true" weight="0.2272118" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info id="Structure" order="1" sideWeight="0.13167939" side_tool="true" visible="true" weight="0.20241287" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="11" sideWeight="0.21711569" side_tool="true" weight="0.0" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.8019802" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,378 +892,371 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="21" />
+      <option name="time" value="27" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.pom">
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/validator/MyValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.jar!/com/mysql/jdbc/Driver.class">
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/config/JobRegistryConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="412">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.jar!/com/mysql/cj/jdbc/Driver.class">
+    <entry file="file://$MAVEN_REPOSITORY$/com/dangdang/elastic-job-lite-spring/2.1.5/elastic-job-lite-spring-2.1.5.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="-523">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/step/tasklet/Tasklet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/4.3.8/spring-batch-infrastructure-4.3.8.jar!/org/springframework/batch/repeat/RepeatStatus.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/step/builder/StepBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticjob-demo/src/main/java/com/lhx/demo/TestSpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.27/spring-beans-5.3.27.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="523" column="13" selection-start-line="523" selection-start-column="13" selection-end-line="523" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.27/spring-beans-5.3.27.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/scope/context/StepContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="85" column="30" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticjob-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/configuration/annotation/EnableBatchProcessing.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.27/spring-context-5.3.27.jar!/org/springframework/stereotype/Component.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.27/spring-context-5.3.27.jar!/org/springframework/context/annotation/Configuration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/text/DateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="342" column="24" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/job/YourBatchJob.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.11/spring-boot-2.7.11.jar!/org/springframework/boot/SpringApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="526" column="9" selection-start-line="526" selection-start-column="9" selection-end-line="526" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.11/spring-boot-2.7.11.jar!/org/springframework/boot/CommandLineRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/configuration/JobLocator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/job/builder/JobBuilder.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.27/spring-web-5.3.27.jar!/org/springframework/web/bind/annotation/RestController.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/configuration/JobRegistry.class">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-gateway/3.1.2/spring-cloud-starter-gateway-3.1.2.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
+        <state relative-caret-position="-924" />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/configuration/ListableJobLocator.class">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.0.1/spring-cloud-starter-netflix-eureka-server-3.0.1.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.27/spring-context-5.3.27.jar!/org/springframework/context/ApplicationContext.class">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.11/spring-boot-starter-parent-2.7.11.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/eureka-server/pom.xml" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41998">
+          <caret line="1909" column="6" selection-start-line="1909" selection-start-column="6" selection-end-line="1909" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.7.11/spring-boot-starter-web-2.7.11.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.7.11/spring-boot-dependencies-2.7.11.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2376" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.9.RELEASE/spring-beans-5.2.9.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/eureka-service-demo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/configuration/support/JobRegistryBeanPostProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/configuration/annotation/JobBuilderFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/JobParametersBuilder.class">
+    <entry file="file://$PROJECT_DIR$/my-parent/eureka-service-demo/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="93" column="32" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="32" />
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/JobParametersValidator.class">
+    <entry file="file://$PROJECT_DIR$/my-parent/eureka-service-demo/eureka-server-demo.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="242">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/JobParameters.class">
+    <entry file="file://$PROJECT_DIR$/my-parent/eureka-service-demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/job/DefaultJobParametersValidator.class">
+    <entry file="file://$PROJECT_DIR$/my-parent/eureka-service-demo/src/main/java/com/lhx/demo/EurekaDemoSpringBootApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/configuration/annotation/StepBuilderFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/job/CompositeJobParametersValidator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/job/builder/JobBuilderHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/JobExecutionListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/batch/javax.batch-api/1.0/javax.batch-api-1.0.jar!/javax/batch/api/chunk/ItemReader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="197">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/listener/MyAnnoListener.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="195">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/launch/support/RunIdIncrementer.class">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.2.0.RELEASE/spring-cloud-starter-netflix-eureka-client-2.2.0.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state relative-caret-position="-4557" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/4.3.8/spring-batch-infrastructure-4.3.8.jar!/org/springframework/batch/item/ItemReader.class">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="-8448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/common/CommonLinerRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/listener/MyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/config/JobRegistryConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="27" column="56" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/util/JsonUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/common/CommonLinerRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.8/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/launch/JobLauncher.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.2.4.RELEASE/spring-batch-core-4.2.4.RELEASE.jar!/org/springframework/batch/core/launch/JobLauncher.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/resources/application-dev.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.2.4.RELEASE/spring-batch-core-4.2.4.RELEASE.jar!/org/springframework/batch/core/launch/support/SimpleJobLauncher.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="165">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/util/DateUtils.java">
+    <entry file="file://$PROJECT_DIR$/my-parent/springcloud-gateway-demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+        <state relative-caret-position="234">
+          <caret line="28" column="21" selection-start-line="23" selection-start-column="8" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/TestSpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/validator/MyValidator.java">
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/job/MyBatchJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="30" column="10" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/job/YourBatchJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="97" column="19" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/controller/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springcloud-gateway-demo/src/main/java/com/lhx/demo/GatewaySpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="66" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springcloud-gateway-demo/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/lang/annotation/Retention.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/controller/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/ElasticJobSpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/job/MyBatchJob.java">
+    <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/config/ZookeeperConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        <state relative-caret-position="308">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/custom/ElasticSimpleJobInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/Job/MyJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.9.RELEASE/spring-context-5.2.9.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        <state relative-caret-position="132">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbatch-demo/src/main/java/com/lhx/demo/job/YourBatchJob.java">
+    <entry file="file://$PROJECT_DIR$/my-parent/elasticjob-demo/src/main/java/com/lhx/demo/config/ElasticJobConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        <state relative-caret-position="946">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/SpringBatchSpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="169" column="33" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#newSingleThreadExecutor#0;class#Executors#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/thread/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="method#call#0;class#ThreadDemo#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="235" column="18" lean-forward="true" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-1.8/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="150" column="39" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-parent/springbatch-demo/src/main/java/com/lhx/demo/thread/ThreadDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <element signature="method#main#0;class#SharedDataExample#0;class#ThreadDemo2#0" expanded="true" />
+            <element signature="e#266#282#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
           </folding>
         </state>
       </provider>

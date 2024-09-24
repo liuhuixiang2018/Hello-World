@@ -1,0 +1,16 @@
+server.port: 8091
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://127.0.0.1:3306/settdb?serverTimezone=GMT%2B8&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  sql:
+    init:
+      schema-locations: classpath:org/springframework/batch/core/schema-mysql.sql
+      # sql.init.mode 第一次启动为always， 后面启动需要改为never，否则每次执行SQL都会异常。
+      mode: never
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

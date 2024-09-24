@@ -7,12 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="elasticjob-demo" />
+        <module name="eureka-server-demo" />
         <module name="springbatch-demo" />
+        <module name="springcloud-gateway-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="elasticjob-demo" target="1.8" />
-      <module name="springbatch-demo" target="1.8" />
+      <module name="elasticjob-demo" target="1.5" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-demo" target="1.5" />
+      <module name="my-parent" target="1.5" />
+      <module name="springbatch-demo" target="1.5" />
+      <module name="springcloud-gateway-demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

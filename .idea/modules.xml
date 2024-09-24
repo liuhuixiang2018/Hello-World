@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Hello-World.iml" filepath="$PROJECT_DIR$/.idea/Hello-World.iml" />
-      <module fileurl="file://$PROJECT_DIR$/elasticjob-demo/elasticjob-demo.iml" filepath="$PROJECT_DIR$/elasticjob-demo/elasticjob-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springbatch-demo/springbatch-demo.iml" filepath="$PROJECT_DIR$/springbatch-demo/springbatch-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-parent/elasticjob-demo/elasticjob-demo.iml" filepath="$PROJECT_DIR$/my-parent/elasticjob-demo/elasticjob-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-parent/eureka-service-demo/eureka-server-demo.iml" filepath="$PROJECT_DIR$/my-parent/eureka-service-demo/eureka-server-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-parent/my-parent.iml" filepath="$PROJECT_DIR$/my-parent/my-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-parent/springbatch-demo/springbatch-demo.iml" filepath="$PROJECT_DIR$/my-parent/springbatch-demo/springbatch-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-parent/springcloud-gateway-demo/springcloud-gateway-demo.iml" filepath="$PROJECT_DIR$/my-parent/springcloud-gateway-demo/springcloud-gateway-demo.iml" />
     </modules>
   </component>
 </project>
